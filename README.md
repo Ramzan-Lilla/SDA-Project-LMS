@@ -1,4 +1,5 @@
-# SDA-Project-LMS
+# SDA-Project-Learning Management System
+
 implementation of LMS using OOP and SDA concept
 This Project has the Following feacture Created and Design by Humza Noor sattari and Muhammad Ramzan
 
